@@ -227,5 +227,3 @@
 		System.out.println(i7 == i8);
 		System.out.println(i7.equals(i8));
 
-###13.24_day13总结
-* 把今天的知识点总结一遍。

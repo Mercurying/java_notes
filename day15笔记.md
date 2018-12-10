@@ -253,5 +253,3 @@
 		查询多用ArrayList
 		增删多用LinkedList
 		如果都多ArrayList
-###15.16_day15总结
-把今天的知识点总结一遍。
